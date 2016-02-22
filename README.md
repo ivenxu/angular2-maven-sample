@@ -3,6 +3,6 @@ This is a sample project to write angularjs 2 app in maven using maven plugin to
 
 ### build
 run
-'''sh
+```sh
 mvn clean install
-'''
+```
