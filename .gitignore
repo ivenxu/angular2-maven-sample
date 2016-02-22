@@ -1,4 +1,5 @@
 target
+typings
 node
 node_modules
 log.txt
