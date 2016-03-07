@@ -5,5 +5,5 @@ node_modules
 log.txt
 nb-configuration.xml
 npm-debug.log
-/src/main/webapp
+/src/main/webapp/app/
 .git

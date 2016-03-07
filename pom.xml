@@ -53,7 +53,7 @@
                 <configuration>
                     <filesets>
                         <fileset>
-                            <directory>${basedir}/src/main/webapp</directory>
+                            <directory>${basedir}/src/main/webapp/app</directory>
                             <includes>
                                 <include>**/*</include>
                             </includes>
